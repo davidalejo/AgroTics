@@ -20,10 +20,10 @@
         <template v-slot:default>
         <thead>
             <tr>
-            <th class="text-center">ID</th>
-            <th class="text-center">Descripción</th>
-            <th class="text-center">Precio</th>
-            <th class="text-center">Stock</th>
+            <th class="text-center">Ubicación</th>
+            <th class="text-center">Fecha muestreo</th>
+            <th class="text-center">Lugar/Lote</th>
+            <th class="text-center">Área sembrada</th>
             <th class="text-center">Acciones</th>
             </tr>
         </thead>

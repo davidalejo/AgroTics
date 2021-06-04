@@ -46,15 +46,6 @@
       <v-app-bar-nav-icon @click="drawer=true" class="white--text"></v-app-bar-nav-icon>
         <v-toolbar-title>                
         <v-list-item :to="{path: '/'}">                
-        <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
-          contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
-          transition="scale-transition"
-          width="40"         
-          :to="{path: '/'}" 
-        />
         </v-list-item>
         </v-toolbar-title>
       </v-app-bar>      
